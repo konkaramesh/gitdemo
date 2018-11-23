@@ -11,6 +11,9 @@ public class App
 		System.out.println("Hi This is Github Sample");
 		
 	}
+	public void addData(String data) {
+		System.out.println("this is sample data");
+	}
 	
     public static void main( String[] args )
     {
